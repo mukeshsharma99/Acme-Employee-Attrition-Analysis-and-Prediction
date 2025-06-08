@@ -9,7 +9,7 @@ Acme Corporation has provided historical data on employee demographics, job sati
 
 #### Business Intelligence (BI) Analysis:
 1. **Data Exploration and Visualization:**
-   - Create interactive dashboards using BI tools to visualize trends and patterns in employee turnover.
+   - Create interactive dashboards using BI tools to visualize trends and patterns in employee turnover. 
    - Identify departments, roles, and specific projects with the highest turnover rates.
 
 2. **Descriptive Analytics:**
