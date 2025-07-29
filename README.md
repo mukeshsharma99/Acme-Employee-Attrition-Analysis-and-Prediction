@@ -6,7 +6,7 @@ Acme Corporation, a leading tech company, is facing a significant challenge with
 
 #### Dataset:
 Acme Corporation has provided historical data on employee demographics, job satisfaction, work environment, performance metrics, and turnover status. This dataset spans the last five years and includes information on employees who have left the company and those who are still currently employed.
-
+ 
 #### Business Intelligence (BI) Analysis:
 1. **Data Exploration and Visualization:**
    - Create interactive dashboards using BI tools to visualize trends and patterns in employee turnover. 
